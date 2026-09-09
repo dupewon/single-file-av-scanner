@@ -215,3 +215,4 @@ Contributions welcome — keep it **one file, zero deps, offline**. See [Contrib
 MIT — see [LICENSE](LICENSE). Use it, fork it, teach with it.
 
 Built by [@dupewon](https://github.com/dupewon) — single-file defensive tooling.
+Built by [@ikayras](https://github.com/ikayras) — single-file defensive tooling.
